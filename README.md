@@ -11,6 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... <br>
 [<img style="color:white;"  align="left" alt="parsiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pooya_afshari/)
 [<img style="color:white;" align="left" alt="parsiro | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://www.t.me/thebdh/)
-<br>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
