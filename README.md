@@ -1,5 +1,5 @@
 ### Hi there , I'm pooya👋
-##Currently learning web stuffs and etc.
+## Currently learning web stuffs and etc.
 
 Here are some ideas to get you started:
 
