@@ -1,4 +1,4 @@
-### Hi there , I'm pooya👋
+### Hi there, I'm pooya👋
 ## Currently learning web stuff and etc.
 
 
